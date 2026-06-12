@@ -19,7 +19,7 @@ Inherits="ShopEaseNew.Home" %>
         <div class="container hero-content text-center text-white">
 
             <h1 class="hero-title">
-                ShopEase
+                ShopEase with DevOps
             </h1>
 
             <p class="hero-subtitle">
