@@ -1,0 +1,15 @@
+---
+- hosts: local
+  gather_facts: no
+
+  tasks:
+
+    - name: Create deployment directory
+      file:
+        path: /tmp/shopease
+        state: directory
+
+    - name: Create deployment information file
+      copy:
+        content: "ShopEase deployed successfully using Ansible"
+        dest: /tmp/shopease/deployment.txt
