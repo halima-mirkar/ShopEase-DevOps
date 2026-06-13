@@ -73,7 +73,7 @@ Halima Mirkar
 
 MCA Semester II
 
-=======
+
 # ShopEase - DevOps Mini Project
 
 ## Project Description
